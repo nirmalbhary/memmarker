@@ -15,7 +15,7 @@ void main(int argc, char *args[])
 
 	if(argc<2)
 	{
-		printf("Usage - peeler.exe 'FilePath' <-e>\nCreated by Nirmal Singh<nirmalbhary@aol.com> \n");
+		printf("Usage - peeler.exe 'FilePath' <-e>\n");
 		return;
 	}
 
